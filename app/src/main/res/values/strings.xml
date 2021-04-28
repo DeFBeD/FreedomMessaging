@@ -2,4 +2,7 @@
     <string name="app_name">Freedom Messaging</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="set_proof_of_work">Set Proof Of Work</string>
+    <string name="close_content_description">Close</string>
+    <string name="warning_option_for_testing_only_changing_the_value_will_lead_to_longer_wait_times">warning...Option For Testing Only. Changing the value will lead to longer wait times.</string>
 </resources>

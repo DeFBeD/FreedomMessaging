@@ -46,6 +46,14 @@ public class BlockModel {
         return null;
     }
 
+    public static Object calculate_detail(BlockModel newBlock) {
+        return null;
+    }
+
+    public static Object calculateHash(BlockModel firstBlock) {
+        return null;
+    }
+
     private String str() {
         return index + timeStamp + previousHash + data + nonce;
     }

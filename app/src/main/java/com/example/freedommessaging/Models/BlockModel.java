@@ -99,6 +99,7 @@ public class BlockModel {
         this.data = data;
     }
 
+
     public void mineBlock(int difficulty) {
         nonce = 0;
         while (!getHash().substring(0, difficulty).equals(addZeros(difficulty))) {
